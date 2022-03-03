@@ -1,0 +1,17 @@
+---
+title: 谢昱清
+subtitle: 实践支队长；总结组成员
+layout: default
+modal-id: 1
+date: 2022-03-04
+img: dreams.png
+thumbnail: dreams-thumbnail.png
+alt: image-alt
+description: 什么这里只能放一张图！！
+---
+<img src="img/portfolio/dreams.png" class="img-responsive img-centered" alt="图片">
+<p>？？</p>
+<img src="img/portfolio/dreams.png" class="img-responsive img-centered" alt="图片">
+<p>？？</p>
+<img src="img/portfolio/dreams.png" class="img-responsive img-centered" alt="图片">
+<p>？？</p>

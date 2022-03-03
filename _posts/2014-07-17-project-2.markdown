@@ -1,15 +1,30 @@
 ---
-title: Escape
-subtitle: Website Design
+title: 韩雨杉
+subtitle: 生活组成员
 layout: default
 modal-id: 2
 date: 2014-07-17
 img: escape.png
 thumbnail: escape-thumbnail.png
 alt: image-alt
-project-date: April 2014
+project-date: 2019级
 client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+category: 美术学院
 
 ---
+<img src="img/hys/1.jpg" class="img-responsive img-centered" alt="古城角落">
+<p>古城角落</p>
+<img src="img/hys/多肉.jpg" class="img-responsive img-centered" alt="多肉">
+<p>多肉</p>
+<img src="img/hys/柳.JPG" class="img-responsive img-centered" alt="柳">
+<p>柳</p>
+<img src="img/hys/楼.heic" class="img-responsive img-centered" alt="楼">
+<p>楼</p>
+<img src="img/hys/白族奶奶.jpg" class="img-responsive img-centered" alt="白族奶奶">
+<p>白族奶奶</p>
+<img src="img/hys/纳西族奶奶.jpg" class="img-responsive img-centered" alt="纳西族奶奶">
+<p>纳西族奶奶</p>
+<img src="img/hys/门口的仙人掌.jpg" class="img-responsive img-centered" alt="门口的仙人掌">
+<p>门口的仙人掌</p>
+<img src="img/hys/鱼与毯.jpg" class="img-responsive img-centered" alt="鱼与毯">
+<p>鱼与毯</p>
