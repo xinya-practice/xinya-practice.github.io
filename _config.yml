@@ -8,18 +8,18 @@ description: "清华大学新雅书院2022寒假写生实践成果展示。"
 
 
 # Team names, titles and social links
-people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
+# people:
+# - name: Kay Garland
+#   pic: 1
+#   position: Lead Designer
 
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
+# - name: Larry Parker
+#   pic: 2
+#   position: Lead Marketer
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
+# - name: Diana Petersen
+#   pic: 3
+#   position: Lead Developer
 
 # # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 # social:
