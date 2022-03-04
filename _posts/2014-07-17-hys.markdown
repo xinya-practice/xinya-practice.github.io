@@ -1,26 +1,34 @@
 ---
 title: 韩雨杉
-subtitle: 美术学院2020级学生
+subtitle: 美术学院 2020级学生
 layout: default
 modal-id: 2
-img: escape.png
-thumbnail: escape-thumbnail.png
-alt: image-alt
+img: hys.jpeg
+thumbnail: hys.jpeg
+alt: 韩雨杉
 
 ---
-<img src="img/hys/1.jpg" class="img-responsive img-centered" alt="古城角落">
-<p>古城角落</p>
-<img src="img/hys/多肉.jpg" class="img-responsive img-centered" alt="多肉">
-<p>多肉</p>
-<img src="img/hys/柳.JPG" class="img-responsive img-centered" alt="柳">
-<p>柳</p>
-<img src="img/hys/楼.heic" class="img-responsive img-centered" alt="楼">
-<p>楼</p>
 <img src="img/hys/白族奶奶.jpg" class="img-responsive img-centered" alt="白族奶奶">
-<p>白族奶奶</p>
-<img src="img/hys/纳西族奶奶.jpg" class="img-responsive img-centered" alt="纳西族奶奶">
-<p>纳西族奶奶</p>
+<h3>白族奶奶</h3>
+<p>奶奶用很原始的方法在织布</p>
+<img src="img/hys/多肉.jpg" class="img-responsive img-centered" alt="多肉">
+<h3>多肉</h3>
+<p>云南的气候真不错，多肉长势极好</p>
+<img src="img/hys/古城角落.jpg" class="img-responsive img-centered" alt="古城角落">
+<h3>古城角落</h3>
+<p>一家有大金毛的咖啡店门口</p>
+<img src="img/hys/柳.jpg" class="img-responsive img-centered" alt="柳">
+<h3>柳</h3>
+<p>晚上看不清细节，于是凭感觉随意画一画</p>
+<img src="img/hys/楼.jpg" class="img-responsive img-centered" alt="楼">
+<h3>楼</h3>
+<p>小风吹着好舒服哦——</p>
 <img src="img/hys/门口的仙人掌.jpg" class="img-responsive img-centered" alt="门口的仙人掌">
-<p>门口的仙人掌</p>
+<h3>门口的仙人掌</h3>
+<p>这些仙人掌长得很可人！</p>
+<img src="img/hys/纳西族奶奶.jpg" class="img-responsive img-centered" alt="纳西族奶奶">
+<h3>纳西族奶奶</h3>
+<p>背着超大箩筐前行</p>
 <img src="img/hys/鱼与毯.jpg" class="img-responsive img-centered" alt="鱼与毯">
-<p>鱼与毯</p>
+<h3>鱼与毯</h3>
+<p>酒店里的装饰品，好看</p>

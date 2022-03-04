@@ -1,0 +1,20 @@
+---
+title: 沙之洲
+subtitle: 新雅书院/计算机系 2020级学生
+layout: default
+modal-id: 1
+img: szz.jpg
+thumbnail: szz.jpg
+alt: 沙之洲
+
+---
+
+<img src="img/szz/小肥猫咖.jpg" class="img-responsive img-centered" alt="小肥猫咖">
+<h3>小肥猫咖</h3>
+<p>灰褐色的屋顶上反射着正午的阳光，仿佛水波在上边缓缓流动。</p>
+<img src="img/szz/两种藤条.jpg" class="img-responsive img-centered" alt="两种藤条">
+<h3>两种藤条</h3>
+<p>藤条编织的灯罩将光分成了明暗两半，不过倒过来看更像酒杯。</p>
+<img src="img/szz/鸡足佛塔.jpg" class="img-responsive img-centered" alt="鸡足佛塔">
+<h3>鸡足佛塔</h3>
+<p>大理海拔最高的鸡足山顶，矗立着一座高耸入云的佛塔，标志着千百年来人们与天沟通的不断尝试。</p>

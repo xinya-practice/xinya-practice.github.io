@@ -1,0 +1,23 @@
+---
+title: 吕牧原
+subtitle: 新雅书院/建筑学院 2019级学生
+layout: default
+modal-id: 1
+img: .jpg
+thumbnail: .jpg
+alt: 吕牧原
+
+---
+
+<img src="img/lmy/1.jpg" class="img-responsive img-centered" alt="蓝色山坡">
+<h3>蓝色山坡</h3>
+<p></p>
+<img src="img/lmy/2.jpg" class="img-responsive img-centered" alt="紫色山坡">
+<h3>紫色山坡</h3>
+<p></p>
+<img src="img/lmy/3.jpg" class="img-responsive img-centered" alt="大理的院">
+<h3>大理的院</h3>
+<p></p>
+<img src="img/lmy/玻璃竹影.jpg" class="img-responsive img-centered" alt="玻璃竹影">
+<h3>玻璃竹影</h3>
+<p></p>

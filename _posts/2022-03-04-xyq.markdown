@@ -1,6 +1,6 @@
 ---
 title: 谢昱清
-subtitle: 新雅书院/计算机系2018级学生
+subtitle: 新雅书院/计算机系 2018级学生
 layout: default
 modal-id: 1
 img: xyq.jpg
