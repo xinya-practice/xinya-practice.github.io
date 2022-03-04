@@ -3,8 +3,8 @@ title: 谢昱清
 subtitle: 新雅书院/计算机系2018级学生
 layout: default
 modal-id: 1
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: xyq.jpg
+thumbnail: xyq.jpg
 alt: 谢昱清
 
 ---
