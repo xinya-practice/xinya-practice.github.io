@@ -2,7 +2,7 @@
 title: 吕牧原
 subtitle: 新雅书院/建筑学院 2019级学生
 layout: default
-modal-id: 1
+modal-id: 9
 img: .jpg
 thumbnail: .jpg
 alt: 吕牧原

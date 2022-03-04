@@ -2,7 +2,7 @@
 title: 韩雨杉
 subtitle: 美术学院 2020级学生
 layout: default
-modal-id: 2
+modal-id: 5
 img: hys.jpeg
 thumbnail: hys.jpeg
 alt: 韩雨杉

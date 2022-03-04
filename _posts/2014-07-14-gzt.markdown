@@ -2,7 +2,7 @@
 title: 芶正泰
 subtitle: 新雅书院/CDIE 2019级学生
 layout: default
-modal-id: 5
+modal-id: 8
 img: gzt.jpg
 thumbnail: gzt.jpg
 alt: 芶正泰

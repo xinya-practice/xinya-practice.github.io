@@ -2,7 +2,7 @@
 title: 曲仲扬
 subtitle: 新雅书院/建筑学院 2019级学生
 layout: default
-modal-id: 3
+modal-id: 6
 date: 2014-07-16
 img: qzy.jpeg
 thumbnail: qzy.jpeg

@@ -8,9 +8,3 @@ thumbnail: xyq.jpg
 alt: 谢昱清
 
 ---
-<img src="img/portfolio/dreams.png" class="img-responsive img-centered" alt="图片">
-<p>？？</p>
-<img src="img/portfolio/dreams.png" class="img-responsive img-centered" alt="图片">
-<p>？？</p>
-<img src="img/portfolio/dreams.png" class="img-responsive img-centered" alt="图片">
-<p>？？</p>

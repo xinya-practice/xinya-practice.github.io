@@ -2,7 +2,7 @@
 title: 沙之洲
 subtitle: 新雅书院/计算机系 2020级学生
 layout: default
-modal-id: 1
+modal-id: 3
 img: szz.jpg
 thumbnail: szz.jpg
 alt: 沙之洲

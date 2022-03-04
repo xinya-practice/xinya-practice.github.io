@@ -2,7 +2,7 @@
 title: 王舒可
 subtitle: 新雅书院/PPE 2020级学生
 layout: default
-modal-id: 1
+modal-id: 2
 img: wsk.jpeg
 thumbnail: wsk.jpeg
 alt: 王舒可
