@@ -1,0 +1,10 @@
+---
+title: 钱昱嘉
+subtitle: 建筑学院2019级学生
+layout: default
+modal-id: 4
+img: qyj.jpg
+thumbnail: qyj.jpg
+alt: 钱昱嘉
+
+---
