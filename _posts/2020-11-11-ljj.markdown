@@ -1,6 +1,6 @@
 ---
 title: 罗境佳
-subtitle: 
+subtitle: 新雅书院/计算机系 2018级学生
 layout: default
 modal-id: 4
 img: ljj.jpeg
