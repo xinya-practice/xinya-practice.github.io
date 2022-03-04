@@ -1,13 +1,12 @@
 ---
 title: 谢昱清
-subtitle: 实践支队长；总结组成员
+subtitle: 新雅书院/计算机系2018级学生
 layout: default
 modal-id: 1
-date: 2022-03-04
 img: dreams.png
 thumbnail: dreams-thumbnail.png
-alt: image-alt
-description: 什么这里只能放一张图！！
+alt: 谢昱清
+
 ---
 <img src="img/portfolio/dreams.png" class="img-responsive img-centered" alt="图片">
 <p>？？</p>
