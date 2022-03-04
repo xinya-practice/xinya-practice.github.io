@@ -1,0 +1,53 @@
+---
+title: 罗境佳
+subtitle: 
+layout: default
+modal-id: 1
+img: ljj.jpeg
+thumbnail: ljj.jpeg
+alt: 罗境佳
+
+---
+
+<img src="img/ljj/一条路.jpg" class="img-responsive img-centered" alt="一条路">
+<h3>一条路</h3>
+<p></p>
+<img src="img/ljj/公园老人.jpg" class="img-responsive img-centered" alt="公园老人">
+<h3>公园老人</h3>
+<p></p>
+<img src="img/ljj/双廊海边景色.jpeg" class="img-responsive img-centered" alt="双廊海边景色">
+<h3>双廊海边景色</h3>
+<p></p>
+<img src="img/ljj/向上.jpg" class="img-responsive img-centered" alt="向上">
+<h3>向上</h3>
+<p></p>
+<img src="img/ljj/小镇和雪山.jpg" class="img-responsive img-centered" alt="小镇和雪山">
+<h3>小镇和雪山</h3>
+<p></p>
+<img src="img/ljj/巍山一角.jpg" class="img-responsive img-centered" alt="巍山一角">
+<h3>巍山一角</h3>
+<p></p>
+<img src="img/ljj/民宿花瓶.jpg" class="img-responsive img-centered" alt="民宿花瓶">
+<h3>民宿花瓶</h3>
+<p></p>
+<img src="img/ljj/稻田和雪山.jpg" class="img-responsive img-centered" alt="稻田和雪山">
+<h3>稻田和雪山</h3>
+<p></p>
+<img src="img/ljj/街边神龛.jpg" class="img-responsive img-centered" alt="街边神龛">
+<h3>街边神龛</h3>
+<p></p>
+<img src="img/ljj/街道和雪山.jpg" class="img-responsive img-centered" alt="街道和雪山">
+<h3>街道和雪山</h3>
+<p></p>
+<img src="img/ljj/雪山.jpg" class="img-responsive img-centered" alt="雪山">
+<h3>雪山</h3>
+<p></p>
+<img src="img/ljj/雪山小镇.jpg" class="img-responsive img-centered" alt="雪山小镇">
+<h3>雪山小镇</h3>
+<p></p>
+<img src="img/ljj/飞檐(1).jpg" class="img-responsive img-centered" alt="飞檐(1)">
+<h3>飞檐(1)</h3>
+<p></p>
+<img src="img/ljj/飞檐(2).jpg" class="img-responsive img-centered" alt="飞檐(2)">
+<h3>飞檐(2)</h3>
+<p></p>

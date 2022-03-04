@@ -20,7 +20,7 @@ alt: 芶正泰
 <img src="img/gzt/芦苇.jpg" class="img-responsive img-centered" alt="芦苇">
 <h3>芦苇</h3>
 <p></p>
-<img src="img/gzt/雪山：Rhino.jpg" class="img-responsive img-centered" alt="雪山：Rhino作品">
+<img src="img/gzt/雪山：Rhino作品.jpg" class="img-responsive img-centered" alt="雪山：Rhino作品">
 <h3>雪山：Rhino作品</h3>
 <p></p>
 <img src="img/gzt/零下十度的随手涂鸦.jpg" class="img-responsive img-centered" alt="零下十度的随手涂鸦">
