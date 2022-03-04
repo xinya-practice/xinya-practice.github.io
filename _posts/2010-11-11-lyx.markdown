@@ -3,8 +3,8 @@ title: 龙懿欣
 subtitle: 美术学院 2020级学生
 layout: default
 modal-id: 10
-img: .jpg
-thumbnail: .jpg
+img: lyx.jpg
+thumbnail: lyx.jpg
 alt: 
 
 ---

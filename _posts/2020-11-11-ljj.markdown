@@ -15,7 +15,7 @@ alt: 罗境佳
 <img src="img/ljj/公园老人.jpg" class="img-responsive img-centered" alt="公园老人">
 <h3>公园老人</h3>
 <p></p>
-<img src="img/ljj/双廊海边景色.jpeg" class="img-responsive img-centered" alt="双廊海边景色">
+<img src="img/ljj/双廊海边景色.jpg" class="img-responsive img-centered" alt="双廊海边景色">
 <h3>双廊海边景色</h3>
 <p></p>
 <img src="img/ljj/向上.jpg" class="img-responsive img-centered" alt="向上">
