@@ -18,6 +18,6 @@ alt: 吕牧原
 <img src="img/lmy/3.jpg" class="img-responsive img-centered" alt="大理的院">
 <h3>大理的院</h3>
 <p></p>
-<img src="img/lmy/玻璃竹影.jpg" class="img-responsive img-centered" alt="玻璃竹影">
+<img src="img/lmy/4.jpg" class="img-responsive img-centered" alt="玻璃竹影">
 <h3>玻璃竹影</h3>
 <p></p>

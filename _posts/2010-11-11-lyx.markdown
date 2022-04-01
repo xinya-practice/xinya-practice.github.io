@@ -52,10 +52,10 @@ alt:
 <img src="img/lyx/骷髅头.jpg" class="img-responsive img-centered" alt="骷髅头">
 <h3>骷髅头</h3>
 <p>就是抽象流动的骷髅头</p>
-<img src="img/lyx/霞光.jpg" class="img-responsive img-centered" alt="霞光">
+<img src="img/lyx/霞光.png" class="img-responsive img-centered" alt="霞光">
 <h3>霞光</h3>
 <p>热情，充满生机的霞光！</p>
-<img src="img/lyx/灿烂的山.jpg" class="img-responsive img-centered" alt="灿烂的山">
+<img src="img/lyx/灿烂的山.png" class="img-responsive img-centered" alt="灿烂的山">
 <h3>灿烂的山</h3>
 <p>被太阳照成橘红色的山峰</p>
 <img src="img/lyx/罗曼蒂克与酒精.png" class="img-responsive img-centered" alt="罗曼蒂克与酒精">
