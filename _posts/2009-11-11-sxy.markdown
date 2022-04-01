@@ -24,7 +24,7 @@ alt:
 <h3>南方水果新鲜、丰富、又便宜。</h3>
 <p></p>
 <img src="img/sxy/6.玉龙雪山.jpg" class="img-responsive img-centered" alt="玉龙雪山">
-<h3>9</h3>
+<h3>是清新又厚重的雪山。</h3>
 <p></p>
 <img src="img/sxy/7.暖洋洋的狗狗.jpg" class="img-responsive img-centered" alt="暖洋洋的狗狗">
 <h3>一起晒太阳。</h3>

@@ -7,19 +7,20 @@ email: 1205402283@qq.com
 description: "清华大学新雅书院2022寒假写生实践成果展示。"
 
 
-# # Team names, titles and social links
-# people:
-# - name: Kay Garland
-#   pic: 1
-#   position: Lead Designer
+# Team names, titles and social links
+# 这里用来放实践成果
+people:
+- name: 微信推送
+  pic: 1
+  position: 在实践途中及行后制作十余个宣传推送。
 
-# - name: Larry Parker
-#   pic: 2
-#   position: Lead Marketer
+- name: 文创作品
+  pic: 2
+  position: 包括明信片、文件夹、海报等多个形式的文创作品。
 
-# - name: Diana Petersen
-#   pic: 3
-#   position: Lead Developer
+- name: 线上展览
+  pic: 3
+  position: 整理汇总作品集，即本站。
 
 # # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 # social:
