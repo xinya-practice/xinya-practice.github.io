@@ -8,7 +8,7 @@ thumbnail: wsk.jpeg
 alt: 王舒可
 
 ---
-<h2>——丽江——</h2>
+<h3>——丽江——</h3>
 <img src="img/wsk/大概是Lucky.jpg" class="img-responsive img-centered" alt="大概是Lucky">
 <h4>大概是Lucky</h4>
 <p></p>
@@ -32,7 +32,7 @@ alt: 王舒可
 <p></p>
 
 
-<h2>——大理——</h2>
+<h3>——大理——</h3>
 <img src="img/wsk/低空飞行.jpg" class="img-responsive img-centered" alt="低空飞行">
 <h4>低空飞行</h4>
 <p></p>
@@ -50,7 +50,7 @@ alt: 王舒可
 <p></p>
 
 
-<h2>——巍山——</h2>
+<h3>——巍山——</h3>
 <img src="img/wsk/一种可能的生活.jpg" class="img-responsive img-centered" alt="一种可能的生活">
 <h4>一种可能的生活</h4>
 <p></p>

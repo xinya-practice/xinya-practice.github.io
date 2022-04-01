@@ -9,26 +9,26 @@ alt:
 
 ---
 <img src="img/sxy/1.丽江古城.jpg" class="img-responsive img-centered" alt="丽江古城">
-<h3>看到了很有特色的民族建筑，屋顶很美。</h3>
-<p></p>
+<h3>丽江古城</h3>
+<p>看到了很有特色的民族建筑，屋顶很美。</p>
 <img src="img/sxy/2.冬日的鲜花.jpg" class="img-responsive img-centered" alt="冬日的鲜花">
-<h3>云南的冬天，依旧鲜花盛开。</h3>
-<p></p>
+<h3>冬日的鲜花</h3>
+<p>云南的冬天，依旧鲜花盛开。</p>
 <img src="img/sxy/3.槛外青山.jpg" class="img-responsive img-centered" alt="槛外青山">
-<h3>白云青山，交相辉映。</h3>
-<p></p>
+<h3>槛外青山</h3>
+<p>白云青山，交相辉映。</p>
 <img src="img/sxy/4.空中鱼池.jpg" class="img-responsive img-centered" alt="空中鱼池">
-<h3>清透的水，灵透的鱼。</h3>
-<p></p>
+<h3>空中鱼池</h3>
+<p>清透的水，灵透的鱼。</p>
 <img src="img/sxy/5.清晨的水果铺子.jpg" class="img-responsive img-centered" alt="清晨的水果铺子">
-<h3>南方水果新鲜、丰富、又便宜。</h3>
-<p></p>
+<h3>清晨的水果铺子</h3>
+<p>南方水果新鲜、丰富、又便宜。</p>
 <img src="img/sxy/6.玉龙雪山.jpg" class="img-responsive img-centered" alt="玉龙雪山">
-<h3>是清新又厚重的雪山。</h3>
-<p></p>
+<h3>玉龙雪山</h3>
+<p>是清新又厚重的雪山。</p>
 <img src="img/sxy/7.暖洋洋的狗狗.jpg" class="img-responsive img-centered" alt="暖洋洋的狗狗">
-<h3>一起晒太阳。</h3>
-<p></p>
+<h3>暖洋洋的狗狗</h3>
+<p>一起晒太阳。</p>
 <img src="img/sxy/8.鲜艳的寺庙.jpg" class="img-responsive img-centered" alt="鲜艳的寺庙">
-<h3>青绿的竹叶掩映着静穆的寺庙，僧人很少。</h3>
-<p></p>
+<h3>鲜艳的寺庙</h3>
+<p>青绿的竹叶掩映着静穆的寺庙，僧人很少。</p>
