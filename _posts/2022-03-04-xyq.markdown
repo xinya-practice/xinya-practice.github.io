@@ -8,15 +8,54 @@ thumbnail: xyq.jpg
 alt: 谢昱清
 
 ---
-<img src="img/xyq/寂照庵小院.jpg" class="img-responsive img-centered" alt="寂照庵小院">
-<h3>寂照庵小院</h3>
+<img src="img/xyq/练笔.jpg" class="img-responsive img-centered" alt="练笔">
+<h3>练笔</h3>
+<p>到云南的第一天，天气比想象中的冷太多，画了一小会儿手就完全失去知觉了。老师说要是能一张画画一张就好了。</p>
+
+<img src="img/xyq/花.jpg" class="img-responsive img-centered" alt="花">
+<h3>晚上一边听李睦老师点评一边摸鱼。试了试新的颜料和新的纸，被mg颜料的浓郁深深惊艳了。（大概没有人能看出来是临摹的是永山裕子老师的作品）</h3>
 <p></p>
-<img src="img/xyq/请花供佛.jpg" class="img-responsive img-centered" alt="请花供佛">
-<h3>请花供佛</h3>
-<p></p>
-<img src="img/xyq/太阳宫.jpg" class="img-responsive img-centered" alt="太阳宫">
-<h3>太阳宫</h3>
-<p></p>
+
 <img src="img/xyq/麻雀.jpg" class="img-responsive img-centered" alt="麻雀">
 <h3>麻雀</h3>
-<p></p>
+<p>路上看到了一只走来走去的黑白小麻雀，觉得很可爱。后来懂生物的朋友跟我说，麻雀只会蹦跶不会走路，所以这不是麻雀。</p>
+<img src="img/xyq/古镇一角.jpg" class="img-responsive img-centered" alt="古镇一角">
+<h3>古镇一角</h3>
+<p>丽江古镇有很多多肉和很多很多流水，在多肉与流水间看到了一个爬着青苔的佛像。</p>
+<img src="img/xyq/一些藤蔓.jpg" class="img-responsive img-centered" alt="一些藤蔓">
+<h3>一些藤蔓</h3>
+<p>凭借印象涂了涂逆光看到的藤蔓。</p>
+<img src="img/xyq/咖啡屋外景.jpg" class="img-responsive img-centered" alt="咖啡屋外景">
+<h3>咖啡屋外景</h3>
+<p>坐在咖啡屋里玩了玩油画棒。这次带来的油画棒质感有点奇怪。</p>
+
+<img src="img/xyq/大金毛@lucky.jpg" class="img-responsive img-centered" alt="大金毛@lucky">
+<h3>大金毛@lucky</h3>
+<p>在咖啡屋对着狗狗画画。画了一半狗狗换了个姿势，只好凭印象继续画。咖啡店主人看我画画，问我：你是美院的？我也是美院的！空气中充满了快活的气息，吓得我草草收尾。</p>
+<img src="img/xyq/被我投喂的布丁狗.jpg" class="img-responsive img-centered" alt="被我投喂的布丁狗">
+<h3>被我投喂的布丁狗</h3>
+<p>拿着骨头把狗狗一路引导饭桌旁看它津津有味地吃骨头。朋友说：“这只狗不是一只狗，是两只狗。”到底是几只狗，傻傻分不清楚。</p>
+
+<img src="img/xyq/寂照庵小院.jpg" class="img-responsive img-centered" alt="寂照庵小院">
+<h3>寂照庵小院</h3>
+<p>阴雨天，去寂照庵吃斋。尼姑庵不大，但是布置得很精致。等饭的时候对着庭院里的石磨随手涂了一张，收获几个小朋友和大人的围观。</p>
+<img src="img/xyq/请花供佛.jpg" class="img-responsive img-centered" alt="请花供佛">
+<h3>请花供佛</h3>
+<p>寂照庵不设香火，但让请花供佛，别有一番意趣。来来往往游人如织，我看人看景，也作为景色被人纳入眼中。我的作品集封面照片便是一个游客拍下的作画中的我们。</p>
+<img src="img/xyq/护佑众生.jpg" class="img-responsive img-centered" alt="护佑众生">
+<h3>护佑众生</h3>
+<p>等人时随手涂了一张。处理得不是很喜欢。</p>
+<img src="img/xyq/空中鱼池.jpg" class="img-responsive img-centered" alt="空中鱼池">
+<h3>空中鱼池</h3>
+<p>寂照庵有名的空中鱼池，下雨的时候涟漪阵阵，十分好看。</p>
+<img src="img/xyq/太阳宫.jpg" class="img-responsive img-centered" alt="太阳宫">
+<h3>太阳宫</h3>
+<p>巍山古迹之一。画完刚好开始下雨，遂摊开画本一路淋雨回去。回到民宿的时候，刚好雨过天晴。</p>
+
+<img src="img/xyq/卡通风尝试.jpg" class="img-responsive img-centered" alt="卡通风尝试">
+<h3>卡通风尝试</h3>
+<p>czm学姐拍了一张色彩丰富的洱海，试图用浓郁的颜色涂抹，但是有点不遂人意。</p>
+
+<img src="img/xyq/早餐店.jpg" class="img-responsive img-centered" alt="早餐店">
+<h3>早餐店</h3>
+<p>初到云南赶去吃土鸡米线。食客络绎不绝，早餐店一家人忙忙碌碌。热乎乎的水汽蒸腾而起，满嘴人间味道。</p>
