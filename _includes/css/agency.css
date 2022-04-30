@@ -339,7 +339,7 @@ section h3.section-subheading {
     text-transform: none;
     font-family: {{ site.data.template.font.secondary }};
     font-size: 16px;
-    /* font-style: italic; */
+    font-style: italic;
     font-weight: 400;
 }
 
@@ -797,7 +797,7 @@ ul.social-buttons li a:active {
     margin: 20px 0 30px;
     font-family: {{ site.data.template.font.secondary }};
     font-size: 16px;
-    /* font-style: italic; */
+    font-style: italic;
 }
 
 .portfolio-modal .modal-content ul.list-inline {
