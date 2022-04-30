@@ -3,8 +3,8 @@ title: 刘梦
 subtitle: 新雅书院/PPE 2018级学生
 layout: default
 modal-id: 12
-img: lm.jpg
-thumbnail: lm.jpg
+img: lm.jpeg
+thumbnail: lm.jpeg
 alt: 刘梦
 
 ---
